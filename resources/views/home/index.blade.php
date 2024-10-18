@@ -319,10 +319,14 @@
                     </a>
                 </div>
             </div>
-            <div class="flex items-center flex-col gap-y-2 md:mt-0 image-container">
+            <!-- <div class="flex items-center flex-col gap-y-2 sm:mt-0 md-12 image-container">
                 <img src="{{ asset('images/pf.jpeg') }}" class=" w-20 pf-image" alt="tag">
-            </div>
+            </div> -->
         </div>
 </div>
+
+
+<!-- My Project  -->
+
 
 @endsection
